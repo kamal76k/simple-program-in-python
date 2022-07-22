@@ -1,22 +1,22 @@
 #first program in python
 
- # print("Hello kamal")
+ print("Hello kamal")
 
 
 # second program in python
 
-# a=int(input("Enter the first number:\n"))
-#b=int(input("Enter the second number:\n"))
-#c=a+b
-#print("The add of two number is =",+c)
+a=int(input("Enter the first number:\n"))
+b=int(input("Enter the second number:\n"))
+c=a+b
+print("The add of two number is =",+c)
 
 # Third program in python
 
-# x=int(input('Enter the first number :\n'))
-#y=int(input("Enter the second number:\n"))
+x=int(input('Enter the first number :\n'))
+y=int(input("Enter the second number:\n"))
 
-#multiply=x*y
-#print('The multiply of x and b is =',multiply)
+multiply=x*y
+print('The multiply of x and b is =',multiply)
 
 
 #Datatype in python
